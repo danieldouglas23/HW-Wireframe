@@ -55,7 +55,7 @@ header {
 #aside {
     background: #ebebeb;
     color: #777;
-    padding: 123px;
+    padding: 113px;
     width: 315px;
     float: left;
 }
@@ -63,14 +63,14 @@ header {
 h3 {
     background: #ebebeb;
     color: #777;
-    padding: 15px;
+    padding: 10px;
     margin: 10px;
 }
 
 p {
     background: #ebebeb;
     color: #777;
-    padding: 15px;
+    padding: 10px;
     margin: 10px;
 }
 
